@@ -1,4 +1,5 @@
 .container {
+  background-image: url("../images/wall.png");
   display: flex;
   flex-direction: column;
   height: 100vh;
@@ -7,6 +8,7 @@
 .menu {
   align-items: center;
   background-color: #000;
+  border-bottom: 5px solid #ffd700;
   color: #FFF;
   display: flex;
   justify-content: space-evenly;
@@ -14,21 +16,27 @@
   width: 100%;
 }
 
+.menu-lives {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
 .panel {
   align-items: center;
-  border: 1px solid red;
   display: flex;
   justify-content: center;
   margin-top: 1rem;
 }
 
 .square {
-  background-color: aquamarine;
+  background-color: #1AEAA5;
   border: 1px solid black;
   height: 150px;
   width: 150px;
 }
 
 .enemy {
-  background-color: red;
+  background-image: url("../images/ralph.png");
+  background-size: cover;
 }
