@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+}
+
+.menu {
+  align-items: center;
+  background-color: #000;
+  color: #FFF;
+  display: flex;
+  justify-content: space-evenly;
+  height: 90px;
+  width: 100%;
+}
