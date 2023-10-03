@@ -16,6 +16,11 @@
   width: 100%;
 }
 
+.menu-time h2:nth-child(2),
+.menu-score h2:nth-child(2) {
+  margin-top: 10px;
+}
+
 .menu-lives {
   align-items: center;
   display: flex;
