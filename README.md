@@ -32,5 +32,4 @@ Este simples jogo do *Detona Ralph* foi produzido durante o Desafio de Projeto d
 
 Entre em contato comigo acessando minhas redes:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gabrielgmbarros "LinkedIn")
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/GracilianoOG "GitHub")
+[![LinkedIn](https://www.linkedin.com/in/kaillaine-cristina-da-lapa-vieira-944b282a0/)
